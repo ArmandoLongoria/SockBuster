@@ -1,0 +1,7 @@
+C:\Users\Space Face\source\repos\SockBuster\SockBuster\bin\Debug\SockBuster.exe.config
+C:\Users\Space Face\source\repos\SockBuster\SockBuster\bin\Debug\SockBuster.exe
+C:\Users\Space Face\source\repos\SockBuster\SockBuster\bin\Debug\SockBuster.pdb
+C:\Users\Space Face\source\repos\SockBuster\SockBuster\obj\Debug\SockBuster.csprojAssemblyReference.cache
+C:\Users\Space Face\source\repos\SockBuster\SockBuster\obj\Debug\SockBuster.csproj.CoreCompileInputs.cache
+C:\Users\Space Face\source\repos\SockBuster\SockBuster\obj\Debug\SockBuster.exe
+C:\Users\Space Face\source\repos\SockBuster\SockBuster\obj\Debug\SockBuster.pdb
